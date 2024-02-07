@@ -1,6 +1,3 @@
-# Gerenciador-de-Estoque
-#Gerenciador de estoque feito para a Coordenadoria de Saúde e Assistência Social e Religiosa da PMCE
-
 from tkinter import *
 from tkinter import ttk, Tk
 import sqlite3
